@@ -44,4 +44,3 @@ This analysis explored the US Accidents dataset with a focus on understanding an
 
 ---
 
-## 📂 Repository Structure
